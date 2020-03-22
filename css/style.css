@@ -1,0 +1,39 @@
+main{
+	padding: 4em 0;
+	/*min-height: 520px;*/
+}
+form{
+	padding: 4em 0;
+}
+.inline{
+	display: flex;
+	line-height: 48px;
+}
+.inline p{
+	margin-left: 1em;
+	font-size: 24px;
+}
+.modal-body{
+	font-size: 14px;
+	line-height: 32px;
+}
+.modal-body b{
+	text-transform: uppercase;
+}
+.modal-img{
+	width: 50px;
+	height: 50px;
+	position: relative;
+}
+.img-circle{
+	position: relative;
+	height: 100%;
+	width: 100%;
+	border-radius: 50%;
+	border: 1px #EEEEEE solid;
+}
+.footer{
+	background-color: #f5f5f5;
+	position: sticky;
+	bottom: 0;
+}
